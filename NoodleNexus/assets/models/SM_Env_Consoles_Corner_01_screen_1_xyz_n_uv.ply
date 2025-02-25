@@ -1,0 +1,23 @@
+ply
+format ascii 1.0
+comment Created in Blender version 4.3.2
+element vertex 6
+property float x
+property float y
+property float z
+property float nx
+property float ny
+property float nz
+property float texture_u
+property float texture_v
+element face 2
+property list uchar uint vertex_indices
+end_header
+4.5886183 2.1526952 1.55859 1 0 0 0 0
+4.5886183 2.1526952 2.17435 1 0 0 1 0
+4.5886183 2.8315253 2.17435 1 0 0 1 1
+4.5886183 2.8315253 2.17435 1 0 0 1 1
+4.5886183 2.8315253 1.55859 1 0 0 0 1
+4.5886183 2.1526952 1.55859 1 0 0 0 0
+3 0 1 2
+3 3 4 5
